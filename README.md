@@ -2,6 +2,8 @@
 
 Nesse desafio você construirá uma versão super simplificada de um Payment Service Provider (PSP) como o Pagar.me e talvez aprender um pouco mais sobre como funcionam pagamentos no Brasil.
 
+Fonte: https://github.com/pagarme/vagas/tree/master/desafios/software-engineer-backend
+
 ## Contexto
 
 Em sua essência um PSP tem duas funções muito importantes:
